@@ -1,5 +1,3 @@
-// --- SECCIÓN 02: EJERCICIOS SOBRE FUNCIONES ---
-
 // 1. Función Suma
 function sumar(a, b) {
   return a + b;
